@@ -1,0 +1,17 @@
+body{
+    background-image: url("pexels-pnw-production-8250994.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+fieldset{  
+    float:none;
+    width: 400px;
+     padding: 10px; 
+     background-color: rgb(217, 223, 223);
+}
+.right{ 
+   width: 40%;
+}
+h1{
+    background-color: azure; 
+}

@@ -1,0 +1,23 @@
+fieldset{   
+    float:left;
+    width: 400px;
+    padding: 10px; 
+    /* background-color: rgb(58, 124, 124)40, 209, 209); */
+}
+.right{ 
+   width: 40%;
+}
+body{
+     background-image: url("pexels-fauxels-3183198.jpg"); 
+     background-repeat: no-repeat; 
+     background-size: cover; 
+    /* background-color: antiquewhite; */
+}
+h4{
+    color: rgb(218, 24, 24);
+    background-color: azure;
+}
+h1{
+    color: rgb(19, 17, 17);
+    background-color: azure;
+}
